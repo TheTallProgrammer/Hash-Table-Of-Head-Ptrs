@@ -1,0 +1,1 @@
+Hashtable composed of head pointers
